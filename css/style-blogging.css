@@ -1,0 +1,22 @@
+* {
+    transition: all 0.1s ease;
+}
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    background-image: url(../img/font-1.jpg);
+    background-size: cover;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    /* display: none; */
+}
